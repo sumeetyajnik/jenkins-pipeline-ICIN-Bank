@@ -5,3 +5,4 @@ git:4.10.0
 aws-credentials:1.32
 pipeline-aws:1.43
 nodejs:1.5.1
+node:6-alpine
